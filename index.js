@@ -11,16 +11,17 @@
 
 // Function call to initialize app
 function init() {
+// // const axios = require("axios");
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generate = require("./utils/markDown.js");
+const generate = require("./Develop/utils/markDown.js");
 const path = require("path");
 
 
 //  array of questions for user
-// const questions = [
+// const questions = {
 
-// const inquirer=require("inquirer");
+// const inquirer = require("inquirer");
 // const { Console } = require("console");
 inquirer.prompt([
     {
