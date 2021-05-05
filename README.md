@@ -1,13 +1,11 @@
 # Professional README Generator
 
-![Project Image](project=image=url)
 
----
 
 ### Table of Contents
 - [Discription](#discription)
 - [Installation](#installation)
-- [#Usage](#usage)
+- [Usage](#usage)
 - [License](#license)
 - [Contributions](#contributions)
 - [Test](#test)
@@ -30,18 +28,15 @@ This application is meant for users to generate a README.md file by using a temp
 ## How To Use
 To use the README generator run: "Node index.js" in the terminal, answer the prompts. After the prompts are answered, open the new README.md created in the current working directory, and preview the README
 
-#### Installation
+#### InstallationK
 Clone from my github repo
 
 #### API Reference
 
-
-[Back To The Top](#Professional README Generator)
-
 ---
 
 ## License
-MIT License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -63,11 +58,12 @@ SOFTWARE.
 
 Copyright (c) [2021] [Robert Howell]
 
-[Back To The Top](#Professional README Generator)
+
 
 ---
 
 ## Author Info
 - GitHub - [Robert Howell](https://lpnrhowell.github)
+- Email - [lnprhowell@gmail.com]()
 
-[Back To The Top](#Professional READ Generator)
+

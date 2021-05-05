@@ -11,9 +11,9 @@
 
 // Function call to initialize app
 function init() {
-const fs = require("fs");
 const inquirer = require("inquirer");
-const generate = require("./utils/markDown");
+const fs = require("fs");
+const generate = require("./utils/markDown.js");
 const path = require("path");
 
 
@@ -51,8 +51,8 @@ inquirer.prompt([
             "MIT LIcense",
             "GVL GPL License",
             "Apache License",
-            "No License",
-        ]
+            "No License"
+        ],
     },
     { 
         type:"input",

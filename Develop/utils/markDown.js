@@ -55,7 +55,7 @@ ${response.Install}
 ${response.Usage}
 
 ## License
-${response.License}
+${licenseBadge(response)}
 
 ## Contributors
 ${response.Contributors}
@@ -71,6 +71,6 @@ Github:[${response.Github}](https://github.com/lpnrhowell)
 
 Email:[${response.Email}](lpnrhowell@gmail.com)
 
-`;}
+`}
 
 module.exports = markDown
