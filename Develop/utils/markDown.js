@@ -32,6 +32,11 @@
   // return licenseString
   // };
 
+
+
+
+
+
 function markDown(response) {
   return `
 
@@ -45,8 +50,8 @@ function markDown(response) {
 # [Test](#test)
 # [Questions](#questions)
 
-## Distribution
-${response.Distribution}
+## Discription
+${response.Discription}
 
 ## Installation
 ${response.Install}
@@ -55,10 +60,10 @@ ${response.Install}
 ${response.Usage}
 
 ## License
-${response.license}
+${response.License}
 
 ## Contributors
-${response.Contributors}
+${response.Contributions}
 
 ## Test
 ${response.Test}
@@ -67,9 +72,9 @@ ${response.Test}
 ## Questions
 If you want to contact me:
 
-Github:[${response.Github}](https://github.com/lpnrhowell)
+Github:[${response.Github}](${response.Github})
 
-Email:[${response.Email}](lpnrhowell@gmail.com)
+Email:[${response.Email}](${response.Email})
 
 `}
 

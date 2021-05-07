@@ -59,7 +59,6 @@ SOFTWARE.
 Copyright (c) [2021] [Robert Howell]
 
 
-
 ---
 
 ## Author Info

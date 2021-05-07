@@ -10,19 +10,26 @@
 // function init() {}
 
 // Function call to initialize app
-function init() {
+
+//  array of questions for user
+// const questions = {
+// const inquirer = require("inquirer");
+// const { Console } = require("console");
 // // const axios = require("axios");
+
+
+
+
+
+
+
+function init() {
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generate = require("./Develop/utils/markDown.js");
 const path = require("path");
 
 
-//  array of questions for user
-// const questions = {
-
-// const inquirer = require("inquirer");
-// const { Console } = require("console");
 inquirer.prompt([
     {
         type:"input",
@@ -45,15 +52,10 @@ inquirer.prompt([
         name:"Usage"
     },
     { 
-        type:"List",
+        type:"input",
         message:"Which License are you using?",
         name:"License",
-        choices: [
-            "MIT LIcense",
-            "GVL GPL License",
-            "Apache License",
-            "No License"
-        ],
+        
     },
     { 
         type:"input",
@@ -87,6 +89,11 @@ inquirer.prompt([
 }
 
 init();
+
+
+
+
+
 // .then(result=> {
 // console.log
 // (result.Title,result.Discription,result.Install,result.Usage,result.License,result.Contributions,result.Test, result.Questions, result.Github, result. Email);
