@@ -1,45 +1,4 @@
-<<<<<<< HEAD
-
-
-  # undefined
-## Table of Contents
-# [Discription](#discription)
-# [Installation](#installation)
-# [Usage](#usage)
-# [License](#license)
-# [Contributors](#contributors)
-# [Test](#test)
-# [Questions](#questions)
-
-## Discription
-test
-
-## Installation
-test
-
-## Usage
-test
-
-## License
-test
-
-## Contributors
-test
-
-## Test
-test
-
-
-## Questions
-If you want to contact me:
-
-Github:[test](test)
-
-Email:[test](test)
-
-=======
 # Professional README Generator
-
 
 
 ### Table of Contents
@@ -98,13 +57,8 @@ SOFTWARE.
 
 Copyright (c) [2021] [Robert Howell]
 
-
-
-https://user-images.githubusercontent.com/79549867/117379319-3bbcd500-aea5-11eb-882a-eedb0d194158.mov
-
 ---
 
 ## Author Info
 - GitHub - [Robert Howell](https://github.com/lpnrhowell)
 - Email - [lnprhowell@gmail.com]()
->>>>>>> e5af611280a130d96df90b2a8372084554d4ae54

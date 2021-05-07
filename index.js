@@ -84,7 +84,7 @@ inquirer.prompt([
 
 ])
   .then((response) => {
-    return fs.writeFileSync(path.join (process.cwd(), "README.md"), generate(response));
+    return fs.writeFileSync(path.join (process.cwd(), "readMe.md"), generate(response));
   });
 }
 
