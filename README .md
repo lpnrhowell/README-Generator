@@ -1,7 +1,6 @@
 # Professional README Generator
 
 
-
 ### Table of Contents
 - [Discription](#discription)
 - [Installation](#installation)
@@ -58,11 +57,8 @@ SOFTWARE.
 
 Copyright (c) [2021] [Robert Howell]
 
-
 ---
 
 ## Author Info
 - GitHub - [Robert Howell](https://github.com/lpnrhowell)
 - Email - [lnprhowell@gmail.com]()
-
-
